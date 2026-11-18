@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: "https://content.da.live/g_hostcloud-wearehackerone.com/avmcp051-20261118/"
+    type: "markup"
